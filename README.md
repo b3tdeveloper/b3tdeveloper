@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erol</h1>
 <h3 align="center">A Junior Game Developer from Turkiye</h3>
 
-img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/QPy8RAg2mR7CU/giphy.webp"
-
 - 🔭 I’m currently working on **educational games**
 
 - 🌱 I’m currently learning **Unity and Blender**
