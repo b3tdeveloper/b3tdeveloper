@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erol</h1>
 <h3 align="center">A Junior Game Developer from Turkiye</h3>
 
-img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/QPy8RAg2mR7CU/giphy.gif?cid=790b7611a27ca7fd53e508eb5f866afd5af9c3c8bed1fde6&rid=giphy.gif&ct=g"
+img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/QPy8RAg2mR7CU/giphy.webp"
 
 - 🔭 I’m currently working on **educational games**
 
